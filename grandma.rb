@@ -5,6 +5,7 @@ if (string == string.upcase)
   else
   return "HUH?! SPEAK UP, SONNY!"
 end
+
 phrase = "WHAT DID YOU EAT TODAY?"
 def speak_to_grandma(phrase)
 if (phrase == phrase.upcase)  
