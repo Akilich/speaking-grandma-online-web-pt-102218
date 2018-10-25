@@ -1,6 +1,6 @@
 string = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(string)
-if (string.upcase == string) == false
+if (string.upcase == string)
   return "I LOVE YOU TOO PUMPKIN!"
 else
 return "HUH?! SPEAK UP, SONNY!"
