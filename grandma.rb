@@ -4,8 +4,8 @@ if (string == string.upcase)
   return "I LOVE YOU TOO PUMPKIN!"
   else
   return "HUH?! SPEAK UP, SONNY!"
-string = false
-if (string == false)  
+string = "WHAT DID YOU EAT TODAY?"
+if (string == "WHAT DID YOU EAT TODAY?")  
 return "NO, NOT SINCE 1938!"
 end 
 end
