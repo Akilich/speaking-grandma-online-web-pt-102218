@@ -6,3 +6,4 @@ if string == string.downcase
   return "HUH?! SPEAK UP, SONNY!"
 end
 end
+end
