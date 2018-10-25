@@ -7,7 +7,7 @@ else (string == string.downcase)
   return "HUH?! SPEAK UP, SONNY!"
 if (stringtwo == stringtwo.upcase)
   return "NO, NOT SINCE 1938!"
-elsif
+else
   return "NO, NOT SINCE 1938!"
 end 
 end
