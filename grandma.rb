@@ -2,9 +2,10 @@ string = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(string)
 if string.downcase
   return "HUH?! SPEAK UP, SONNY!"
-else string.upcase
+def speak_to_grandma(string)
+if string.upcase
   return "NO, NOT SINCE 1938!"
-if (string == string.upcase)
+else (string == string.upcase)
   return "I LOVE YOU TOO PUMPKIN!"
 end 
 end
