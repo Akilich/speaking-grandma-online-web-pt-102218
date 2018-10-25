@@ -1,7 +1,7 @@
 string = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(string)
 if string.downcase
-  retun "HUH?! SPEAK UP, SONNY!"
+  return "HUH?! SPEAK UP, SONNY!"
 def speak_to_grandma(string)
 if string.upcase
   return "NO, NOT SINCE 1938!"
