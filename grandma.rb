@@ -6,7 +6,9 @@ if (string == string.upcase)
 else (string == string.downcase)
   return "HUH?! SPEAK UP, SONNY!"
 if (stringtwo == stringtwo.upcase)
-return "NO, NOT SINCE 1938!"
+  return "NO, NOT SINCE 1938!"
+elsif
+  return "NO, NOT SINCE 1938!"
 end 
 end
 end
