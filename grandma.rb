@@ -5,7 +5,7 @@ if (string.upcase == string)
 else
 return "HUH?! SPEAK UP, SONNY!"
 string = "WHAT DID YOU EAT TODAY?"
-if string.upcase == "WHAT DID YOU EAT TODAY?"
+if (string.upcase == string) == "WHAT DID YOU EAT TODAY?"
 return "NO, NOT SINCE 1938!"
 else 
   return "NO, NOT SINCE 1938!"
