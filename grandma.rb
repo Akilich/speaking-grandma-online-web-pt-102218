@@ -5,9 +5,7 @@ if (string == string.upcase)
 else
 return "HUH?! SPEAK UP, SONNY!"
 string = "WHAT DID YOU EAT TODAY?"
-else  
+if (string == false)  
 return "NO, NOT SINCE 1938!"
-else 
-  return "NO, NOT SINCE 1938!"
 end 
 end
