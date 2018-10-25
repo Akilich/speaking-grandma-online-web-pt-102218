@@ -1,4 +1,4 @@
-string = "I LOVE YOU GRANDMA!"
+string = upcase
 def speak_to_grandma(string)
 if (string == string.upcase)
   return "I LOVE YOU TOO PUMPKIN!"
